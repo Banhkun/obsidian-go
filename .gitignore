@@ -1,2 +1,5 @@
-
+# ignore themes and appearance
+.obsidian/themes
+.obsidian/appearance.json
+.obsidian/workspace.json
 .DS_Store
