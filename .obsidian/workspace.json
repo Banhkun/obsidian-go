@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "fded885559ab1434",
+        "id": "a4fb8d174995307b",
         "type": "tabs",
         "children": [
           {
-            "id": "c20449c7e9b1d6fc",
+            "id": "76873529346d3b08",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "71bc0e50334a435c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "changes_log.md",
+                "file": "Demo Vault 2/2. RESOURCE/index/Skillset.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
     "id": "b4716a1b82e52f01",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "changes_log.md"
+                "file": "Demo Vault 2/2. RESOURCE/index/Skillset.md"
               }
             }
           },
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "changes_log.md",
+                "file": "Demo Vault 2/2. RESOURCE/index/Skillset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "changes_log.md",
+                "file": "Demo Vault 2/2. RESOURCE/index/Skillset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,8 +164,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "98989adc5d8c1e5e",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "0b36a27d565fae58",
@@ -166,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "changes_log.md",
+                "file": "Demo Vault 2/2. RESOURCE/index/Skillset.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +210,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7867063791267348,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -221,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,57 +252,60 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "c20449c7e9b1d6fc",
+  "active": "71bc0e50334a435c",
   "lastOpenFiles": [
-    "README-En.md",
-    "README.md",
-    "changes_log.md",
-    "Demo Vault 2/Obsidian go.md",
-    "Demo Vault 2/Hướng dẫn sử dụng.md",
-    "Demo Vault 2/0. MAP.md",
-    "Demo Vault 2/4. VISUAL NOTES/Untitled.md",
-    "Demo Vault 2/3. ARCHIEVED/Untitled.md",
-    "Demo Vault 2/0. JOURNAL/2023-08-14.md",
-    "Demo Vault 2/2. RESOURCE/template/Weekly Journal.md",
-    "Demo Vault 2/2. RESOURCE/template/People profile.md",
-    "Demo Vault 2/2. RESOURCE/template/New Note.md",
-    "Demo Vault 2/2. RESOURCE/template/Monthly Journal.md",
-    "Demo Vault 2/2. RESOURCE/template/Life Reflection.md",
-    "Demo Vault 2/2. RESOURCE/template/Index Note.md",
-    "Demo Vault 2/2. RESOURCE/template/Daily Journal.md",
-    "Demo Vault 2/2. RESOURCE/template/Book Highlights.md",
+    "Demo Vault 2/2. RESOURCE/index/Journey.md",
+    "Demo Vault 2/2. RESOURCE/index/Physical Health.md",
+    "obsidian-go/src/Pasted image 20230810083336.png",
+    "obsidian-go/src",
+    "obsidian-go/changes_log.md",
+    "obsidian-go/README.md",
+    "obsidian-go/README-En.md",
+    "obsidian-go/LICENSE",
+    "obsidian-go/Demo Vault 2/2. RESOURCE/template/Weekly Journal.md",
+    "obsidian-go/Demo Vault 2/2. RESOURCE/template/People profile.md",
+    "obsidian-go/Demo Vault 2/2. RESOURCE/template/New Note.md",
+    "obsidian-go/Demo Vault 2/2. RESOURCE/template/Monthly Journal.md",
+    "obsidian-go/Demo Vault 2/2. RESOURCE/template/Life Reflection.md",
+    "obsidian-go/Demo Vault 2/2. RESOURCE/template/Index Note.md",
+    "obsidian-go/Demo Vault 2/2. RESOURCE/template/Daily Journal.md",
+    "obsidian-go/Demo Vault 2/2. RESOURCE/template/Book Highlights.md",
+    "Demo Vault 2/2. RESOURCE/index/Tutorial.md",
+    "Demo Vault 2/2. RESOURCE/index/Story.md",
+    "Demo Vault 2/2. RESOURCE/index/Startup.md",
+    "Demo Vault 2/2. RESOURCE/index/Spirituality.md",
+    "Demo Vault 2/2. RESOURCE/index/Social Skills.md",
+    "Demo Vault 2/2. RESOURCE/index/Skillset.md",
+    "Demo Vault 2/2. RESOURCE/index/Saving.md",
+    "Demo Vault 2/2. RESOURCE/index/SaaS.md",
+    "Demo Vault 2/2. RESOURCE/index/Relationship.md",
+    "Demo Vault 2/2. RESOURCE/index/Read.md",
     "Demo Vault 2/2. RESOURCE/index/Productivity.md",
-    "Demo Vault 2/2. RESOURCE/index/Career.md",
-    "Demo Vault 2/2. RESOURCE/index/Financial Security.md",
-    "Demo Vault 2/2. RESOURCE/index/Community.md",
-    "Demo Vault 2/2. RESOURCE/index/Communication.md",
-    "Demo Vault 2/2. RESOURCE/index/Brand building.md",
-    "src",
+    "Demo Vault 2/2. RESOURCE/index/Physical Health.md",
+    "Demo Vault 2/2. RESOURCE/index/Mindset.md",
+    "obsidian-go/Demo Vault 2/2. RESOURCE/template",
+    "Demo Vault 2/2. RESOURCE/index",
+    "obsidian-go/Demo Vault 2/3. ARCHIEVED",
+    "obsidian-go/Demo Vault 2/4. VISUAL NOTES",
+    "obsidian-go/Demo Vault 2/2. RESOURCE",
+    "obsidian-go/Demo Vault 2/0. JOURNAL",
+    "obsidian-go/Demo Vault 2",
+    "obsidian-go/Demo Vault 1/src/Template",
+    "src/Pasted image 20230810083336.png",
+    "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
+    "Untitled.canvas",
     "Demo Vault 2/2. RESOURCE/icon/solid/z.svg",
     "Demo Vault 2/2. RESOURCE/icon/solid/yin-yang.svg",
     "Demo Vault 2/2. RESOURCE/icon/solid/yen-sign.svg",
     "Demo Vault 2/2. RESOURCE/icon/solid/y.svg",
     "Demo Vault 2/2. RESOURCE/icon/solid/xmarks-lines.svg",
-    "Demo Vault 2/2. RESOURCE/icon/solid/xmark.svg",
-    "Demo Vault 2/2. RESOURCE/icon/solid/x.svg",
-    "Demo Vault 2/2. RESOURCE/icon/solid/x-ray.svg",
-    "Demo Vault 2/2. RESOURCE/icon/solid/wrench.svg",
-    "Demo Vault 2/2. RESOURCE/icon/solid/worm.svg",
-    "Demo Vault 2/2. RESOURCE/icon/solid",
-    "Demo Vault 2/2. RESOURCE/icon/regular",
-    "Demo Vault 2/2. RESOURCE/icon/brands",
-    "Demo Vault 2/2. RESOURCE/icon",
-    "Demo Vault 1/src/Template/Daily Journal.md",
-    "Demo Vault 2/2. RESOURCE/index/Social Skills.md",
-    "Demo Vault 2/2. RESOURCE/index/Tutorial.md",
-    "Demo Vault 2/2. RESOURCE/index",
-    "Demo Vault 2/RESOURCE/Index",
-    "Demo Vault 2/2. RESOURCE/attachments",
-    "Demo Vault 2/2. RESOURCE/template",
-    "Demo Vault 2/RESOURCE/New folder",
     "Projects mapping.canvas"
   ]
 }

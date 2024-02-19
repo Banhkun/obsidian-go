@@ -4,7 +4,7 @@
 - Viết Journal hàng ngày/tuần/tháng để suy tưởng (reflection).
 - Quản lý mục tiêu với các việc quan trọng cần thực hiện mỗi ngày với GTD và Reminder
 - Quản lý dự án với Kanban board
-- Trực quan hóa ghi chú với Mindmap
+- [ ] Trực quan hóa ghi chú với Mindmap
 
 # Cấu trúc thư mục
 Tên thư mục | Chi tiết
@@ -28,4 +28,4 @@ VISUAL NOTES | Đây là thư mục lưu trữ tất cả các ghi chú dạng s
 	- Chèn template cho ghi chú. Sử dụng slash command `/Templates: Insert Template`. Khi gõ `/` và bắt đầu nhập template thì tùy chọn này xuất hiện đầu tiên. Bạn cũng có thể sử dụng icon `Insert Template` ở thanh công cụ bên trái màn hình
 	- Chèn wiki link cho lĩnh vực ghi chú này thuộc về
 	- Soạn ghi chú và chèn các wiki link đến các ghi chú khác liên quan.
-- Tất cả ghi chú mới sẽ được chèn Wiki Link đến các ghi chú Index trong thư mục `2.RESOURCE/index` để có thể liên kết các chủ đề liên quan với ghi chú bạn đang viết. Ví dụ [[Community]] bởi ghi chú này tôi viết để chia sẻ cho cộng đồng. Bạn có thể sử dụng nhiều Wiki Link khác cho các chủ đề nhỏ hơn để liên kết các dòng suy nghĩ của mình và kết hợp chúng với nhau qua thời gian.
+- Tất cả ghi chú mới sẽ được chèn Wiki Link đến các ghi chú Index trong thư mục `2.RESOURCE/index` để có thể liên kết các chủ đề liên quan với ghi chú bạn đang viết. Ví dụ [[Demo Vault 2/2. RESOURCE/index/Community]] bởi ghi chú này tôi viết để chia sẻ cho cộng đồng. Bạn có thể sử dụng nhiều Wiki Link khác cho các chủ đề nhỏ hơn để liên kết các dòng suy nghĩ của mình và kết hợp chúng với nhau qua thời gian.

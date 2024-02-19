@@ -1,10 +1,11 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "",
+  "cssTheme": "Shimmering Focus",
   "translucency": false,
   "enabledCssSnippets": [
     "obsidian_theme_config"
   ],
-  "theme": "obsidian",
-  "accentColor": "#e4445c"
+  "theme": "moonstone",
+  "accentColor": "#e4445c",
+  "nativeMenus": false
 }

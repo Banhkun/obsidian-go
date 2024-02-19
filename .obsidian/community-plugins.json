@@ -7,5 +7,11 @@
   "emoji-shortcodes",
   "obsidian-reminder-plugin",
   "obsidian-plugin-todo",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "obsidian-version-history-diff",
+  "omnisearch",
+  "taskbone-ocr-plugin",
+  "text-extractor"
 ]
