@@ -41,10 +41,7 @@
   "hoverPreviewWithoutCTRL": false,
   "linkOpacity": 1,
   "openInAdjacentPane": false,
-<<<<<<< HEAD
-=======
   "focusOnFileTab": false,
->>>>>>> 8ddb2f5 (Reinstall theme)
   "openInMainWorkspace": true,
   "showLinkBrackets": true,
   "allowCtrlClick": true,
@@ -78,11 +75,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-<<<<<<< HEAD
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.20",
-=======
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.21",
->>>>>>> 8ddb2f5 (Reinstall theme)
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -94,21 +87,12 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-<<<<<<< HEAD
-  "previousRelease": "2.0.20",
-  "showReleaseNotes": true,
-  "showNewVersionNotification": true,
-  "latexBoilerplate": "\\color{blue}",
-  "taskboneEnabled": true,
-  "taskboneAPIkey": "b1b71d34-d581-49b8-9ee6-9335d331e137",
-=======
   "previousRelease": "2.0.21",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
-  "taskboneEnabled": false,
-  "taskboneAPIkey": "",
->>>>>>> 8ddb2f5 (Reinstall theme)
+  "taskboneEnabled": true,
+  "taskboneAPIkey": "ca5d7c35-393b-479e-aa4e-c2e3b14d8ac5",
   "pinnedScripts": [],
   "customPens": [
     {

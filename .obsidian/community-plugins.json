@@ -12,5 +12,7 @@
   "obsidian-excalidraw-plugin",
   "omnisearch",
   "text-extractor",
-  "obsidian-git"
+  "obsidian-git",
+  "better-word-count",
+  "taskbone-ocr-plugin"
 ]
