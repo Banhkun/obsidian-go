@@ -1,8 +1,12 @@
 {
   "ocrLanguages": [
+<<<<<<< HEAD
     "eng",
     "vie",
     "jpn"
+=======
+    "eng"
+>>>>>>> 8ddb2f5 (Reinstall theme)
   ],
   "rightClickMenu": true
 }

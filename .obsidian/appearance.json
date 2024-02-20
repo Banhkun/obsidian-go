@@ -1,11 +1,19 @@
 {
   "baseFontSize": 16,
+<<<<<<< HEAD
   "cssTheme": "Shimmering Focus",
+=======
+  "cssTheme": "Elegance",
+>>>>>>> 8ddb2f5 (Reinstall theme)
   "translucency": false,
   "enabledCssSnippets": [
     "obsidian_theme_config"
   ],
   "theme": "moonstone",
+<<<<<<< HEAD
   "accentColor": "#e4445c",
   "nativeMenus": false
+=======
+  "accentColor": "#e4445c"
+>>>>>>> 8ddb2f5 (Reinstall theme)
 }
